@@ -41,7 +41,7 @@ Esta calculadora é ideal para integrar em sites de contabilidade, portais de fi
 5. Faça upload da pasta `dist` para a sua hospedagem (inclua o `.htaccess` para SPA em Apache).
 
 ## Demonstração
-- [Aceda à calculadora online](https://rescisao.julio-cr.pt)
+- [Aceda à calculadora online](https://julioz07.github.io/rescisao-e-gerarcartadespedimento)
 
 ## Licença
 Este projeto é de utilização livre e gratuita para fins pessoais e profissionais, mas **é proibida a venda, revenda ou distribuição comercial do código-fonte**. Veja o ficheiro LICENSE para mais detalhes.
